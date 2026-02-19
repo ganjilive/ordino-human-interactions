@@ -1,0 +1,7 @@
+{
+  "name": "Ordino - Autonomous Quality Orchestrator",
+  "description": "An interactive prototype demonstrating Ordino, an AI QA Platform that monitors the SDLC for quality across tools and people",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
